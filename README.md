@@ -1,7 +1,7 @@
 # JavaScript Templates
 
 ## Contents
-
+import
 - [Demo](https://blueimp.github.io/JavaScript-Templates/)
 - [Description](#description)
 - [Usage](#usage)
